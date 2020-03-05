@@ -21,4 +21,4 @@ for (let i = 0; i < count; i++) {
   }
   items.push(price);
 }
-console.log(items);
+alert("Your items and their values are " + items);
